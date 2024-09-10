@@ -2,6 +2,8 @@
 name = "confused"
 version = "0.1.0"
 edition = "2021"
+description = "treat scary functions with the respect they deserve"
+license = "MIT"
 
 [lib]
 proc-macro = true
