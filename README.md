@@ -1,6 +1,6 @@
 # Confused
 
-Do you ever find yourself using a function that intimidates you? Are there functions that are so terrifying, a mere comment does not sufficiently warn unwitting callers of such function?
+Do you ever find yourself using a function that intimidates you? Are there functions so terrifying, mere comments do not sufficiently warn unwitting callers of its infinite complexity and unknowability?
 
 With the `confusion!()` and `confused!()` macros, you can easily mark a scary function as such:
 
